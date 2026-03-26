@@ -1,0 +1,16 @@
+{
+  "name": "typescript-gsap3-timeline-sequence-demo",
+  "version": "1.0.0",
+  "description": "GSAP 3 Timeline sequence animation demo",
+  "scripts": {
+    "build": "tsc",
+    "start": "npx serve ."
+  },
+  "devDependencies": {
+    "typescript": "^5.3.0",
+    "serve": "^14.2.0"
+  },
+  "dependencies": {
+    "gsap": "^3.12.0"
+  }
+}
